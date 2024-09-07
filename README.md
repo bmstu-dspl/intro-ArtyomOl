@@ -118,6 +118,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 # Signature
 
-ФИО:
+ФИО: Оленев Артём Андреевич
 
-Группа:
+Группа: ИУ6-35Б
+
