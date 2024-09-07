@@ -121,4 +121,3 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 ФИО: Оленев Артём Андреевич
 
 Группа: ИУ6-35Б
-
